@@ -2,6 +2,7 @@ name: Salebike
 favicon: null
 layout_spectrum: 0.41467430838383734
 typography_spectrum: 0.5188131828326732
+title: Bargains
 cta:
   domain: null
   bucket: null
